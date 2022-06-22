@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARIKISHORJHA
-- 👀 I’m interested in Data analyst role
-- 🌱 I’m currently learning Data analyst
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently practicing Data Science.
 - 💞️ I’m looking for any opportunity. 
 - 📫 You can reachout with my contact number-6203820810. 
 
